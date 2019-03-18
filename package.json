@@ -1,6 +1,6 @@
 {
   "name": "carbo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Super fast and simple immutable object helpers",
   "keywords": [
     "immutable",
